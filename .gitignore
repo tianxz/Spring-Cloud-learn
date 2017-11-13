@@ -1,3 +1,10 @@
+# Customer file or folder
+.idea/
+rebel.xml
+*.iml
+target/
+tmp/
+
 # Compiled class file
 *.class
 
